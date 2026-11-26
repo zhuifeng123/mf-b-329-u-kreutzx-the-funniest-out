@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 import os
 
-ENTRY = "Out of office. My auto-reply has more job security than I do."
+ENTRY = (
+    "Out of office. This auto-reply is doing my job, my taxes, "
+    "and my emotional labor."
+)
 
 
 def main() -> None:
